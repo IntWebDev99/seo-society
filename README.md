@@ -1,0 +1,2 @@
+# seo-society
+GitHub Pages
